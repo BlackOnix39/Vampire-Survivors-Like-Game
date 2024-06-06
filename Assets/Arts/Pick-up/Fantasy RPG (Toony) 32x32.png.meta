@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: 15833af00fc4d8547a55d41fbc066d51
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d1d876a5da79f408b1befac3e47247
+      internalID: -832223492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3640dc71d57cd947a18c714e9760dbe
+      internalID: 2044669917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a445db3576d673c4bb8a24e2349fd337
+      internalID: 977514705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 225
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ce0a5431168274f8122fc7b186ee78
+      internalID: -1977929148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c632204846704e14a96dc5c261e7413b
+      internalID: 71092524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 225
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a170a1af9a0be444b8fcef82cf56c22c
+      internalID: -1999361064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 225
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298fd195f3d796a41ab003a6c809d328
+      internalID: 515108412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 225
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3697e078ce8331343a81c9104c6028c9
+      internalID: 97313304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 225
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f981490ff950443814f32838807e7c
+      internalID: -1376611990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 225
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d811c15e1e652248871b17612e306a0
+      internalID: -171044985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 225
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35775fc1925c674d9f5b8f701da3774
+      internalID: 1274152555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 225
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3262b6f7f5302d84d959c4cd856c1f7c
+      internalID: 2130376377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 384
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfe31ea2d8105a4bbfa33cc53f0f9d4
+      internalID: 656755339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 161
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7bcc4d69e479c47868f92f0e07bc31
+      internalID: 1377660462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 161
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37eb9b91d88da64a8e1f96d40bfd0c1
+      internalID: 1479357165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 161
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd78695945d69d54d8b7f547b5360592
+      internalID: 1744598917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 161
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4648a1fb0476c1849b6b6c349c8f152a
+      internalID: 670330000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 161
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a546fa15eb3bac4c95192dd297fa0ae
+      internalID: 1405194257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 161
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8583c638bb2ee4f4d80fb13699d5a00a
+      internalID: 584720251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 161
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1568bb8aad7d545b9781fc2e5509dc
+      internalID: -1053439477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 161
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf7dc8f36b6acb4a971afdc263a5cbc
+      internalID: -541630916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 161
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ec49ed77380304594e7989813652d5
+      internalID: -623617507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 161
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9710336fd69a5f7478a3fd58e3ca7e4f
+      internalID: -963676067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 161
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f7061a4d434a44a9db78c536191090
+      internalID: 282972341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 161
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529a991bcb36452489368251ceb6c60b
+      internalID: -236579647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1639e02d63250f4d85b6337a9b28702
+      internalID: -86172939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 129
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97548c1c0db17e34285a46378614316d
+      internalID: 1884965055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 129
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3f80c51d9965f4db503f7abcc926fc
+      internalID: -1291907469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8154f957186cac46a4f2b0455adc64d
+      internalID: 1586266031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64975036e2b88b74c94e807e1a2e3bc4
+      internalID: -1613522131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 129
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77de5c9cff0af24d994d78d885b618a
+      internalID: 1379223425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 129
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92ce53525f27e341a42a57e1031a3a3
+      internalID: 1703820521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_32
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 129
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2e5cd099687084e9df3ad6b14853ec
+      internalID: -1839936237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 129
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e876f7977b8f0ef46907987a475f20bf
+      internalID: -1762543061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_34
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 129
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127de7f6ab8c94c4a8eb286a13795355
+      internalID: -406462308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_35
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 129
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b05aba1f906cd4c9d96566221de60b
+      internalID: 588002576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_36
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 129
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c678d6abb7a8b44ba4289df60b66c5d
+      internalID: -296617644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 97
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab24a12436c5a846b654a3155cb97e0
+      internalID: -28215934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ecaa821f8bf9a4c946daf5ad09cbeb
+      internalID: -142977150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 97
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a621e0cb1a801479246be6331f3c99
+      internalID: -1405035624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 97
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdabedbb89d28f43a1d784ea6343211
+      internalID: -489609261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 97
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076bfff012c31d9478d8349ffd2b7e36
+      internalID: 402598733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_42
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 97
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3645a1cd965b4394292be51301f0deaa
+      internalID: 139515044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 97
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc9a38dbe63b8a4a8cc68da1eb5f22a
+      internalID: -527148191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_44
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 97
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc0fadcf916d704e9c8edec9361a403
+      internalID: 281346350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_45
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 97
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cddc6d8f064ba4bb9930e4a88c9044
+      internalID: 379390302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_46
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 97
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1bb7d9cc292a349a8258ebc1e37ddf
+      internalID: -951280841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_47
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 97
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27245934439742458ce387fb5e44ec8
+      internalID: -2083746119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_48
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 97
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c029d52047c40b4981bcfb405126db6
+      internalID: -130904291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 384
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd360a5f6d53faf4bb5e66cac59bfcf6
+      internalID: -893443990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcd326b71abc444c876d826e680aa5e
+      internalID: 105462673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d433fee82e20344b1c1d10135ebfe3
+      internalID: -1848280608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dedfbd145b02c4d84f70bf1ef8528f
+      internalID: 1573134238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 33
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6134aa2c99ffd99488ce2b2f84689131
+      internalID: -507213697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 33
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c19a6e950ed2346b99738ee618e698
+      internalID: -1366660853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 33
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff45b0c6e9070440ab7d87209dadabc
+      internalID: 494438563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_56
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 33
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bda8f385408d8f44806ffd1240b5258
+      internalID: 655316040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 33
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebde7b930c7edb247a69676be0f82ed6
+      internalID: 856288123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_58
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 33
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1f1e9286a039146a725be72e0e4eeb
+      internalID: -1074393728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_59
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 33
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e067e78ac06e53489dd24c761204a2f
+      internalID: -597827318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_60
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 33
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a12d0128ccec1479ddf8096900a9f8
+      internalID: -241614547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_61
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 33
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e5c3af6650b32478f2db1467afe68a
+      internalID: -579685706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5c089526a82a44ebf57eaeb31f4c9d
+      internalID: 2087712119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0416d2d352fcf964c8f4df37d5f9a32c
+      internalID: -859948396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_64
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6753c91bae8fa9b4190f42fc2e615a6c
+      internalID: 887674867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba8c45c1ab16964383001e591ee78a0
+      internalID: 1752347776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_66
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133368480a2d6564eaf4a01628f61e21
+      internalID: -381517143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7c1979fa7bac4a80fcf655faa5b59
+      internalID: 652753055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_68
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31bd33596f17264e8ec3f01281e64f3
+      internalID: -348426386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cbe74cb3ad2e449bbe03b961426a6f
+      internalID: 15076465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_70
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb75c44d34bce8408ea3f2286271992
+      internalID: -355594432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_71
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2a427810e55414ca41265cf23001c4
+      internalID: -1586694493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_72
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7b1685ba572a54dbfd4a43e828f55a
+      internalID: -2112620641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy RPG (Toony) 32x32_73
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9cc3a49046eb64cb75d1babf48f383
+      internalID: 968935693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fantasy RPG (Toony) 32x32_0: -832223492
+      Fantasy RPG (Toony) 32x32_1: 2044669917
+      Fantasy RPG (Toony) 32x32_10: 1274152555
+      Fantasy RPG (Toony) 32x32_11: 2130376377
+      Fantasy RPG (Toony) 32x32_12: 656755339
+      Fantasy RPG (Toony) 32x32_13: 1377660462
+      Fantasy RPG (Toony) 32x32_14: 1479357165
+      Fantasy RPG (Toony) 32x32_15: 1744598917
+      Fantasy RPG (Toony) 32x32_16: 670330000
+      Fantasy RPG (Toony) 32x32_17: 1405194257
+      Fantasy RPG (Toony) 32x32_18: 584720251
+      Fantasy RPG (Toony) 32x32_19: -1053439477
+      Fantasy RPG (Toony) 32x32_2: 977514705
+      Fantasy RPG (Toony) 32x32_20: -541630916
+      Fantasy RPG (Toony) 32x32_21: -623617507
+      Fantasy RPG (Toony) 32x32_22: -963676067
+      Fantasy RPG (Toony) 32x32_23: 282972341
+      Fantasy RPG (Toony) 32x32_24: -236579647
+      Fantasy RPG (Toony) 32x32_25: -86172939
+      Fantasy RPG (Toony) 32x32_26: 1884965055
+      Fantasy RPG (Toony) 32x32_27: -1291907469
+      Fantasy RPG (Toony) 32x32_28: 1586266031
+      Fantasy RPG (Toony) 32x32_29: -1613522131
+      Fantasy RPG (Toony) 32x32_3: -1977929148
+      Fantasy RPG (Toony) 32x32_30: 1379223425
+      Fantasy RPG (Toony) 32x32_31: 1703820521
+      Fantasy RPG (Toony) 32x32_32: -1839936237
+      Fantasy RPG (Toony) 32x32_33: -1762543061
+      Fantasy RPG (Toony) 32x32_34: -406462308
+      Fantasy RPG (Toony) 32x32_35: 588002576
+      Fantasy RPG (Toony) 32x32_36: -296617644
+      Fantasy RPG (Toony) 32x32_37: -28215934
+      Fantasy RPG (Toony) 32x32_38: -142977150
+      Fantasy RPG (Toony) 32x32_39: -1405035624
+      Fantasy RPG (Toony) 32x32_4: 71092524
+      Fantasy RPG (Toony) 32x32_40: -489609261
+      Fantasy RPG (Toony) 32x32_41: 402598733
+      Fantasy RPG (Toony) 32x32_42: 139515044
+      Fantasy RPG (Toony) 32x32_43: -527148191
+      Fantasy RPG (Toony) 32x32_44: 281346350
+      Fantasy RPG (Toony) 32x32_45: 379390302
+      Fantasy RPG (Toony) 32x32_46: -951280841
+      Fantasy RPG (Toony) 32x32_47: -2083746119
+      Fantasy RPG (Toony) 32x32_48: -130904291
+      Fantasy RPG (Toony) 32x32_49: -893443990
+      Fantasy RPG (Toony) 32x32_5: -1999361064
+      Fantasy RPG (Toony) 32x32_50: 105462673
+      Fantasy RPG (Toony) 32x32_51: -1848280608
+      Fantasy RPG (Toony) 32x32_52: 1573134238
+      Fantasy RPG (Toony) 32x32_53: -507213697
+      Fantasy RPG (Toony) 32x32_54: -1366660853
+      Fantasy RPG (Toony) 32x32_55: 494438563
+      Fantasy RPG (Toony) 32x32_56: 655316040
+      Fantasy RPG (Toony) 32x32_57: 856288123
+      Fantasy RPG (Toony) 32x32_58: -1074393728
+      Fantasy RPG (Toony) 32x32_59: -597827318
+      Fantasy RPG (Toony) 32x32_6: 515108412
+      Fantasy RPG (Toony) 32x32_60: -241614547
+      Fantasy RPG (Toony) 32x32_61: -579685706
+      Fantasy RPG (Toony) 32x32_62: 2087712119
+      Fantasy RPG (Toony) 32x32_63: -859948396
+      Fantasy RPG (Toony) 32x32_64: 887674867
+      Fantasy RPG (Toony) 32x32_65: 1752347776
+      Fantasy RPG (Toony) 32x32_66: -381517143
+      Fantasy RPG (Toony) 32x32_67: 652753055
+      Fantasy RPG (Toony) 32x32_68: -348426386
+      Fantasy RPG (Toony) 32x32_69: 15076465
+      Fantasy RPG (Toony) 32x32_7: 97313304
+      Fantasy RPG (Toony) 32x32_70: -355594432
+      Fantasy RPG (Toony) 32x32_71: -1586694493
+      Fantasy RPG (Toony) 32x32_72: -2112620641
+      Fantasy RPG (Toony) 32x32_73: 968935693
+      Fantasy RPG (Toony) 32x32_8: -1376611990
+      Fantasy RPG (Toony) 32x32_9: -171044985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

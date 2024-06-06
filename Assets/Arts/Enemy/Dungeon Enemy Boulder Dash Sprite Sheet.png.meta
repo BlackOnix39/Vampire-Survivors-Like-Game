@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 77c101694f3e702498606d41cf894b5f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungeon Enemy Boulder Dash Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 250
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cd0d5827f95d244a3b6c992e12949b
+      internalID: 1410962839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Enemy Boulder Dash Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 251
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc6ffb86255fb9438f78ab4f78ab503
+      internalID: 1228123200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Enemy Boulder Dash Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 246
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614bc6598fc31a24e9995937bea0008b
+      internalID: -2066708581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dungeon Enemy Boulder Dash Sprite Sheet_0: 1410962839
+      Dungeon Enemy Boulder Dash Sprite Sheet_1: -2066708581
+      Dungeon Enemy Boulder Dash Sprite Sheet_10: -1571299905
+      Dungeon Enemy Boulder Dash Sprite Sheet_11: -827720081
+      Dungeon Enemy Boulder Dash Sprite Sheet_12: 122372648
+      Dungeon Enemy Boulder Dash Sprite Sheet_13: 1383370057
+      Dungeon Enemy Boulder Dash Sprite Sheet_14: 587216209
+      Dungeon Enemy Boulder Dash Sprite Sheet_15: 1019041921
+      Dungeon Enemy Boulder Dash Sprite Sheet_16: 1567618000
+      Dungeon Enemy Boulder Dash Sprite Sheet_17: 988851656
+      Dungeon Enemy Boulder Dash Sprite Sheet_18: -106359288
+      Dungeon Enemy Boulder Dash Sprite Sheet_19: -150270005
+      Dungeon Enemy Boulder Dash Sprite Sheet_2: 1228123200
+      Dungeon Enemy Boulder Dash Sprite Sheet_20: -1630210338
+      Dungeon Enemy Boulder Dash Sprite Sheet_21: 1294396147
+      Dungeon Enemy Boulder Dash Sprite Sheet_22: -1235800990
+      Dungeon Enemy Boulder Dash Sprite Sheet_23: -1328956905
+      Dungeon Enemy Boulder Dash Sprite Sheet_24: -1623921401
+      Dungeon Enemy Boulder Dash Sprite Sheet_25: 1017412727
+      Dungeon Enemy Boulder Dash Sprite Sheet_26: 677061804
+      Dungeon Enemy Boulder Dash Sprite Sheet_27: 371023078
+      Dungeon Enemy Boulder Dash Sprite Sheet_28: -971094137
+      Dungeon Enemy Boulder Dash Sprite Sheet_29: 1721640299
+      Dungeon Enemy Boulder Dash Sprite Sheet_3: -1673692383
+      Dungeon Enemy Boulder Dash Sprite Sheet_30: 1993366684
+      Dungeon Enemy Boulder Dash Sprite Sheet_31: 2121616283
+      Dungeon Enemy Boulder Dash Sprite Sheet_32: 1818778336
+      Dungeon Enemy Boulder Dash Sprite Sheet_33: -1775431443
+      Dungeon Enemy Boulder Dash Sprite Sheet_34: 774138972
+      Dungeon Enemy Boulder Dash Sprite Sheet_35: 914472833
+      Dungeon Enemy Boulder Dash Sprite Sheet_36: 1174775845
+      Dungeon Enemy Boulder Dash Sprite Sheet_37: 1038135280
+      Dungeon Enemy Boulder Dash Sprite Sheet_38: -2089013409
+      Dungeon Enemy Boulder Dash Sprite Sheet_39: -402069169
+      Dungeon Enemy Boulder Dash Sprite Sheet_4: 869160416
+      Dungeon Enemy Boulder Dash Sprite Sheet_40: -643918722
+      Dungeon Enemy Boulder Dash Sprite Sheet_41: 589855506
+      Dungeon Enemy Boulder Dash Sprite Sheet_42: 1902117004
+      Dungeon Enemy Boulder Dash Sprite Sheet_43: 1857488789
+      Dungeon Enemy Boulder Dash Sprite Sheet_44: -802277725
+      Dungeon Enemy Boulder Dash Sprite Sheet_45: 1406603445
+      Dungeon Enemy Boulder Dash Sprite Sheet_46: 639132290
+      Dungeon Enemy Boulder Dash Sprite Sheet_47: 434513108
+      Dungeon Enemy Boulder Dash Sprite Sheet_48: -210683785
+      Dungeon Enemy Boulder Dash Sprite Sheet_49: 61242181
+      Dungeon Enemy Boulder Dash Sprite Sheet_5: 1674922472
+      Dungeon Enemy Boulder Dash Sprite Sheet_50: 1467288008
+      Dungeon Enemy Boulder Dash Sprite Sheet_51: 941667872
+      Dungeon Enemy Boulder Dash Sprite Sheet_52: -598475894
+      Dungeon Enemy Boulder Dash Sprite Sheet_53: -1659535985
+      Dungeon Enemy Boulder Dash Sprite Sheet_54: -1793807555
+      Dungeon Enemy Boulder Dash Sprite Sheet_55: -1643975553
+      Dungeon Enemy Boulder Dash Sprite Sheet_56: -1745322258
+      Dungeon Enemy Boulder Dash Sprite Sheet_57: 569521877
+      Dungeon Enemy Boulder Dash Sprite Sheet_58: -1385528014
+      Dungeon Enemy Boulder Dash Sprite Sheet_59: -803398629
+      Dungeon Enemy Boulder Dash Sprite Sheet_6: -1933748900
+      Dungeon Enemy Boulder Dash Sprite Sheet_60: -717042916
+      Dungeon Enemy Boulder Dash Sprite Sheet_61: 239570609
+      Dungeon Enemy Boulder Dash Sprite Sheet_62: -2092811188
+      Dungeon Enemy Boulder Dash Sprite Sheet_63: -1698201858
+      Dungeon Enemy Boulder Dash Sprite Sheet_64: -299911525
+      Dungeon Enemy Boulder Dash Sprite Sheet_65: -336288441
+      Dungeon Enemy Boulder Dash Sprite Sheet_66: 1542774068
+      Dungeon Enemy Boulder Dash Sprite Sheet_67: -1163851165
+      Dungeon Enemy Boulder Dash Sprite Sheet_68: 311615543
+      Dungeon Enemy Boulder Dash Sprite Sheet_69: -273498480
+      Dungeon Enemy Boulder Dash Sprite Sheet_7: -791646879
+      Dungeon Enemy Boulder Dash Sprite Sheet_70: -1525452726
+      Dungeon Enemy Boulder Dash Sprite Sheet_71: -1256733543
+      Dungeon Enemy Boulder Dash Sprite Sheet_72: 837415049
+      Dungeon Enemy Boulder Dash Sprite Sheet_73: 2085302516
+      Dungeon Enemy Boulder Dash Sprite Sheet_74: -1506659376
+      Dungeon Enemy Boulder Dash Sprite Sheet_8: -1502227800
+      Dungeon Enemy Boulder Dash Sprite Sheet_9: -2065755946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
